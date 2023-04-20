@@ -30,3 +30,5 @@ spec:
         env:
         - name: OPENAI_API_KEY
           value: "YOUR SERCRET KEY"
+				- name: AUTH_SECRET_KEY
+          value: "YOUR AUTH KEY"
